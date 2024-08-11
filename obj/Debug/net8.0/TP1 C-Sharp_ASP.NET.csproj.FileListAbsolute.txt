@@ -1,0 +1,30 @@
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\bin\Debug\net8.0\appsettings.json
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\bin\Debug\net8.0\TP1 C-Sharp_ASP.NET.staticwebassets.runtime.json
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\bin\Debug\net8.0\TP1 C-Sharp_ASP.NET.exe
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\bin\Debug\net8.0\TP1 C-Sharp_ASP.NET.deps.json
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\bin\Debug\net8.0\TP1 C-Sharp_ASP.NET.runtimeconfig.json
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\bin\Debug\net8.0\TP1 C-Sharp_ASP.NET.dll
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\bin\Debug\net8.0\TP1 C-Sharp_ASP.NET.pdb
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\TP1 C-Sharp_ASP.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\TP1 C-Sharp_ASP.NET.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\TP1 C-Sharp_ASP.NET.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\TP1 C-Sharp_ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\TP1 C-Sharp_ASP.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\TP1 C-Sharp_ASP.NET.RazorAssemblyInfo.cache
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\TP1 C-Sharp_ASP.NET.RazorAssemblyInfo.cs
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.TP1 C-Sharp_ASP.NET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.build.TP1 C-Sharp_ASP.NET.props
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP1 C-Sharp_ASP.NET.props
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP1 C-Sharp_ASP.NET.props
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\scopedcss\bundle\TP1 C-Sharp_ASP.NET.styles.css
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\scopedcss\projectbundle\TP1 C-Sharp_ASP.NET.bundle.scp.css
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\TP1 C-Sharp_ASP.NET.dll
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\refint\TP1 C-Sharp_ASP.NET.dll
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\TP1 C-Sharp_ASP.NET.pdb
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\TP1 C-Sharp_ASP.NET.genruntimeconfig.cache
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\ref\TP1 C-Sharp_ASP.NET.dll

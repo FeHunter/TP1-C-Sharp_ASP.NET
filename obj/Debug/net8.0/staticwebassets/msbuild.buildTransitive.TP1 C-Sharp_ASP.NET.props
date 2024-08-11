@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TP1 C-Sharp_ASP.NET.props" />
+</Project>
