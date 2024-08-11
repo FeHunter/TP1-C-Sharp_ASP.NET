@@ -28,3 +28,4 @@ C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\T
 C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\TP1 C-Sharp_ASP.NET.pdb
 C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\TP1 C-Sharp_ASP.NET.genruntimeconfig.cache
 C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\ref\TP1 C-Sharp_ASP.NET.dll
+C:\Users\Felipe\Documents\Programmer\Faculdade\Back-End\C#\Desenvolvimento Web\TP1 C-Sharp_ASP.NET\obj\Debug\net8.0\TP1 C-Sharp_ASP.NET.sourcelink.json

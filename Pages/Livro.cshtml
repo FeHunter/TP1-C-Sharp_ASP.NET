@@ -1,6 +1,14 @@
 ﻿@page
 @model TP1_C_Sharp_ASP.NET.Pages.LivroModel
 @{
-
+    ViewData["Title"] = "Componente Livro";
 }
 
+<p>@ViewData["Title"]</p>
+
+<div style="border: 1px solid black; padding: 10px; width: 40%;">
+    <h1>Título: @Model.Titulo</h1>
+    <h2>Autor: @Model.Autor</h2>
+    <p>Ano de Publicação: @Model.AnoDePublicacao</p>
+    <p>Preço: R$@Model.Preco</p>
+</div>
